@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyFinanceApp</string>
+    <string name="in_proress">IN PROGRESS</string>
+    <string name="saved_saldo">SS</string>
+    <string name="default_saldo">DS</string>
+    <string name="action_save">Save</string>
+    <string name="action_insert_dummy_data">Insert dummy data</string>
+    <string name="action_delete_all_entries">Delete all</string>
+    <string name="error_expense_save">Error with adding expense</string>
+    <string name="expense_save_successful">Expense added</string>
+    <string name="editor_delete_pet_failed">Error with deleting expense</string>
+    <string name="editor_delete_pet_successful">Expense deleted</string>
+    <string name="activity_editor_new_expense">Add expense</string>
+    <string name="ectivity_editor_edit_expense">Edit expense</string>
+</resources>
